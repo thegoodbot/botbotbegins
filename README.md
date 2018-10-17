@@ -1,7 +1,7 @@
 # botbotbegins
 The day is Wednesday, or the evening if we're being precise.
 
-The month is October, and beacuse of the global warm it is toasty - but I digress.
+The month is October, and because of the global warm it is toasty - but I digress.
 
 Botbot is born.
 
