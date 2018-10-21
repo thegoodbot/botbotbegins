@@ -45,5 +45,5 @@ Botbot asks, somewhat innocently - and we the audience must also consider what d
 
 **Botbot as a heroine**
 
-Botbot is female, and if you wonder why it's important to note this, I'd encourage you to ask better questions. She is a super-heroine, not because of a freak accident (radioactive spiderbite anyone?) but because of her persistent, essential, flawed human-ness. Human-ness? Isn't botbot a well... bot? 
+Botbot is female, and if you wonder why it's important to note this, I'd encourage you to ask better questions. She is a super-heroine, not because of a freak accident (radioactive spiderbite anyone?) but because of her persistent, essential, flawed human-ness. Human-ness? Isn't botbot a well... bot? Yes she is, she's also as human as her creators - a reminder that what we build will always reflect us, for better, or for worse.
 
