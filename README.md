@@ -31,7 +31,17 @@ Take a botbot book home from your next tech event and share a little of your wor
 
 **Botbot for all generations**
 
-Botbot lives in the heart of the tech ecosystem, and experiences many of the conflicts that are part and parcel of this brave new world, but that often go unaddressed, swept under the rug in favour of yet another 'hack your morning routine' blog post. Botbot is a multi-layered universe, with stories for the young and the not so young. On the surface on _404: Botbot Not Found_ we take a light-hearted look at playing hooky (chucking a sickie, in Australian terms), and the glorious possibility that a day off from routine held when you were a child. But we also explore the very real threat of burnout in the startup world and the need to consider mental health a business imperative as we busily go about building the future. In _Botbot and the Darkweb_ we joke about 'the scaries' and meet _Naughtybot_ but we too delve into the underbelly of the internet, and the ethics and behavioural questions posed by technology. What makes a bot go bad? Botbot asks, somewhat innocently - and we the audience must also consider what drives us to destroy, rather than create.
+Botbot lives in the heart of the tech ecosystem, and experiences many of the conflicts that are part and parcel of this brave new world, but that often go unaddressed, swept under the rug in favour of yet another 'hack your morning routine' blog post. 
+
+Botbot is a multi-layered universe, with stories for the young and the not so young. 
+
+On the surface of _404: Botbot Not Found_ we take a light-hearted look at playing hooky (chucking a sickie, in Australian terms), and the glorious possibility that a day off from routine held when you were a child. But we also explore the very real threat of burnout in the startup world and the need to consider mental health a business imperative as we busily go about building the future. 
+
+In _Botbot and the Darkweb_ we joke about 'the scaries' and meet _Naughtybot_ but we too delve into the underbelly of the internet, and the ethics and behavioural questions posed by technology. 
+
+> What makes a bot go bad? 
+
+Botbot asks, somewhat innocently - and we the audience must also consider what drives us to destroy, rather than create.
 
 **Botbot as a heroine**
 
